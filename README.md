@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OmMaurya84
+- 👋 Hi, I’m @Om_Maurya
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning java basic
 - 💞️ I’m looking to collaborate on ...
